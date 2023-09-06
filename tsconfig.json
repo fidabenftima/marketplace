@@ -21,6 +21,7 @@
     ]
   },
   "angularCompilerOptions": {
+    "allowDeepImports": true,
     "fullTemplateTypeCheck": true,
     "strictInjectionParameters": true
   }
